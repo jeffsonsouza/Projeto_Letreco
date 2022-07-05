@@ -1,0 +1,11 @@
+
+.input1, .input2, .input3, .input4, .input5{
+    width: 50px;
+    height: 30px;
+    text-align: center;
+}
+
+.input1:disabled, .input2:disabled, .input3:disabled, .input4:disabled, .input5:disabled{
+    background-color: white;
+    border: solid black 1px;
+}
